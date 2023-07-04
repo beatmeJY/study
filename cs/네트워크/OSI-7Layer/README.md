@@ -3,7 +3,7 @@
 각 계층 별로 캡슐화하여 인코딩 시에는 높은 계층에서 낮은 계층순으로 진행하고
 디코딩 시에는 낮은 계층에서 높은 계층 순으로 진행 된다.  
 
-![[Pasted image 20230704163843.png](https://onecoin-life.com/19)
+[![osi](OSI7계층구조.png)](https://onecoin-life.com/19)
 
 ---
 
