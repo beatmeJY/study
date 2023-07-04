@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs/네트워크/OSI-7Layer/README.md",
+                "file": "f-lap/1주차 (230703).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs/네트워크/OSI-7Layer/README.md",
+                "file": "f-lap/1주차 (230703).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs/네트워크/OSI-7Layer/README.md",
+                "file": "f-lap/1주차 (230703).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs/네트워크/OSI-7Layer/README.md"
+                "file": "f-lap/1주차 (230703).md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "020b851177e6e441",
   "lastOpenFiles": [
-    "cs/네트워크/OSI-7Layer/OSI7계층구조.png",
     "cs/네트워크/OSI-7Layer/README.md",
+    "f-lap/1주차 (230703).md",
+    "f-lap",
+    "cs/네트워크/OSI-7Layer/OSI7계층구조.png",
     "Pasted.md",
     "cs/자바/README.md",
     "README.md",
@@ -169,7 +171,6 @@
     "직접해보기/dev/out/production",
     "직접해보기/dev/src/DevApplication.java",
     "직접해보기/dev/out",
-    "직접해보기/dev/src",
     "cs/네트워크/DNS/img.png",
     "230701/was/README.md",
     "cs/자바 특징/README.md",

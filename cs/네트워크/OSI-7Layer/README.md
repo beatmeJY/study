@@ -27,12 +27,13 @@
 
 ## 5계층 세션 레이어 (Session Layer)
 
-
+* 프로토콜 : NetBIOS, RPC, Winsock
 
 
 ---
 
 ## 4계층 트랜스포트 레이어 (Transport Layer)
+
 * Port 번호를 사용하여 도착지 컴퓨터의 최종 프로세스까지 도달하게 해주는 모듈이다
 * 운영체제 커널에 소프트웨어적으로 구현되어있다.
 * 프로토콜 : TCP, UDP, RTP 
