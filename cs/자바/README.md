@@ -4,8 +4,8 @@
 
 그리하여 오늘은 자바가 뭐고 자바를 왜 사용하는지부터 알아야 겠다고 생각했다.!
 
-# 자바의 특징 5가지 (오라클 공식 사이트 글)
-(출처 : https://www.oracle.com/java/technologies/introduction-to-java.html)
+# 자바의 특징 5가지 ([오라클 공식 사이트 글](https://www.oracle.com/java/technologies/introduction-to-java.html))
+
 ## 1. 단순하고 객체지향이며, 친숙해야 함.
 * 객체 지향이 가지는 장점이 무엇일까?
 * 다른 언어보다 자바를 친숙 하게 사용할 수 있는 이유는?
