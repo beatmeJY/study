@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "6edfede2ba199d98",
+    "type": "split",
+    "children": [
+      {
+        "id": "006a3fd3fc680503",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c929237ddd120fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fde9e61a740a560c",
+    "type": "split",
+    "children": [
+      {
+        "id": "da04cee22a83b36b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "138c3716a0ee7a62",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e0fd5917a9d51d8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "366ba780db7bfb1b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb55f636f0d50750",
+    "type": "split",
+    "children": [
+      {
+        "id": "9632651e12df0e9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab42f9d33a510308",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e0d2289d8cbcb72",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a09a2bb86f516c3d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eec4ad8fad3c1f14",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "9c929237ddd120fd",
+  "lastOpenFiles": [
+    "cs/네트워크/DNS/README.md",
+    "cs/네트워크/README.md",
+    "cs/was/README.md",
+    "README.md",
+    "cs/스프링/README.md~",
+    "cs/스프링/README.md",
+    "cs/스프링",
+    "cs/자바/README.md",
+    "cs/자바",
+    "직접해보기/dev/out/production/study/AnnotationApplication.class",
+    "직접해보기/dev/out/production/study",
+    "직접해보기/dev/out/production",
+    "직접해보기/dev/src/DevApplication.java",
+    "직접해보기/dev/out",
+    "직접해보기/dev/src",
+    "직접해보기/dev",
+    "cs/네트워크/DNS/img.png",
+    "230701/was/README.md",
+    "cs/자바 특징/README.md",
+    "cs/DNS/README.md",
+    "cs/DNS/img.png",
+    "cs/TCP/README.md",
+    "230703/README.md",
+    "230703/DNS/README.md",
+    "230703/DNS/img.png",
+    "230704/TCP/README.md",
+    "230701/자바 특징/README.md"
+  ]
+}
