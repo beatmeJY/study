@@ -1,4 +1,5 @@
-# 공부할 내용 정리
+# 🌈공부할 내용 정리 
+✔️는 학습 완료, ✅는 학습 정리 연결(클릭 시 페이지 이동)
 
 * ### OSI 7 Layer 
 	* CS
@@ -6,8 +7,8 @@
 * ### 4-way Handshaking
 * ### DNS, DNS Query [✅](https://github.com/beatmeJY/study/blob/main/cs/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/DNS/README.md)
 * ### 소켓
-* #### CSMA, CSMA/CD, CSMA/CA
-* ### .host파일✅
+* ~~CSMA, CSMA/CD, CSMA/CA~~ 이건 나중에 보자.🤣
+* ### .host파일 ✔️
 * ### 리눅스 etc 폴더
 * ### WAS
 * ### 네이버 입력시 동작 과정
@@ -18,7 +19,7 @@
 	- 재귀함수  
 	- 파스칼 삼각형
 
-# 과제
+# 🌞과제
 * ### 프로젝트 구상 및 회의 (주말 예정)
 	- 만들고 싶은 기능
 	- 사용하고 싶은 기술

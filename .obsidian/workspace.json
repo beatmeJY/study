@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "f-lap/1주차 (230703).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "020b851177e6e441",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cs/네트워크/DNS/README.md",
+                "file": "f-lap/1주차 (230703)/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "f-lap/1주차 (230703).md",
+                "file": "f-lap/1주차 (230703)/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "f-lap/1주차 (230703).md",
+                "file": "f-lap/1주차 (230703)/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "f-lap/1주차 (230703).md"
+                "file": "f-lap/1주차 (230703)/README.md"
               }
             }
           }
@@ -161,8 +149,10 @@
   },
   "active": "975872068e7b08da",
   "lastOpenFiles": [
+    "cs/was/README.md",
+    "f-lap/1주차 (230703)",
+    "f-lap/1주차 (230703)/README.md",
     "cs/네트워크/DNS/README.md",
-    "f-lap/1주차 (230703).md",
     "cs/네트워크/OSI-7Layer/README.md",
     "cs/네트워크/OSI-7Layer/OSI7계층구조.png",
     "프로젝트 구상.md",
@@ -170,7 +160,6 @@
     "Pasted.md",
     "cs/자바/README.md",
     "README.md",
-    "cs/was/README.md",
     "7-Layer 개발 시 공통 규칙.md",
     "cs/네트워크/README.md",
     "cs/네트워크/OSI-7Layer",
@@ -182,7 +171,6 @@
     "직접해보기/dev/out/production/study",
     "직접해보기/dev/out/production",
     "직접해보기/dev/src/DevApplication.java",
-    "직접해보기/dev/out",
     "cs/네트워크/DNS/img.png",
     "230701/was/README.md",
     "cs/자바 특징/README.md",
