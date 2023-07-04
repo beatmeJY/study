@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#4-way",
+                "query": "tag:#과제",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
