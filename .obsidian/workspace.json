@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs/README CS목차.md",
+                "file": "cs/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs/README CS목차.md",
+                "file": "f-lap/1주차 (230703)/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs/README CS목차.md",
+                "file": "f-lap/1주차 (230703)/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs/README CS목차.md"
+                "file": "f-lap/1주차 (230703)/README.md"
               }
             }
           }
@@ -159,10 +160,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96b9ad0853773bf2",
+  "active": "df7293b1deeb3e56",
   "lastOpenFiles": [
+    "cs/README.md",
     "f-lap/1주차 (230703)/README.md",
-    "cs/README CS목차.md",
     "프로젝트 구상.md",
     "7-Layer 개발 시 공통 규칙.md",
     "README.md",
