@@ -1,0 +1,1 @@
+ ### DNS, DNS Query [✅](https://github.com/beatmeJY/study/blob/main/cs/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/DNS/README.md)

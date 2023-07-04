@@ -77,7 +77,7 @@
 네트워크 시스템은 큰 소프트웨어 이다.
 
   
-ps. 레이어 공부시 좋은 영상 (10분 테코톡)
+ps. OSI-7Layer 공부시 좋은 영상 (10분 테코톡)
 https://www.youtube.com/watch?v=1pfTxp25MA8&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC
 
 
