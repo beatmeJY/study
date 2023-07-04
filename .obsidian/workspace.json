@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "020b851177e6e441",
+            "id": "975872068e7b08da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "f-lap/1주차 (230703).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "020b851177e6e441",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cs/네트워크/DNS/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "tag:#4-way",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,21 +159,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "020b851177e6e441",
+  "active": "975872068e7b08da",
   "lastOpenFiles": [
-    "cs/네트워크/OSI-7Layer/README.md",
+    "cs/네트워크/DNS/README.md",
     "f-lap/1주차 (230703).md",
-    "f-lap",
+    "cs/네트워크/OSI-7Layer/README.md",
     "cs/네트워크/OSI-7Layer/OSI7계층구조.png",
+    "프로젝트 구상.md",
+    "f-lap",
     "Pasted.md",
     "cs/자바/README.md",
     "README.md",
     "cs/was/README.md",
-    "프로젝트 구상.md",
     "7-Layer 개발 시 공통 규칙.md",
     "cs/네트워크/README.md",
     "cs/네트워크/OSI-7Layer",
-    "cs/네트워크/DNS/README.md",
     "cs/스프링/README.md",
     "cs/스프링/README.md~",
     "cs/스프링",
