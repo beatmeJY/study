@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5a7db62a9768edb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cs/네트워크/DNS/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs/네트워크/DNS/README.md",
+                "file": "f-lap/1주차 (230703)/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs/네트워크/DNS/README.md",
+                "file": "f-lap/1주차 (230703)/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs/네트워크/DNS/README.md"
+                "file": "f-lap/1주차 (230703)/README.md"
               }
             }
           }
@@ -172,15 +160,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5a7db62a9768edb9",
+  "active": "df7293b1deeb3e56",
   "lastOpenFiles": [
+    "cs/네트워크/DNS/README.md",
     "cs/네트워크/OSI-7Layer/README.md",
     "f-lap/1주차 (230703)/README.md",
     "cs/README.md",
     "7-Layer 개발 시 공통 규칙.md",
     "README.md",
     "프로젝트 구상.md",
-    "cs/네트워크/DNS/README.md",
     "cs/네트워크/OSI-7Layer/OSI7계층구조.png",
     "cs/was/README.md",
     "f-lap/1주차 (230703)",
