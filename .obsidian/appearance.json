@@ -1,10 +1,10 @@
 {
   "accentColor": "",
   "theme": "moonstone",
-  "cssTheme": "Things",
+  "cssTheme": "Atom",
   "textFontFamily": "메이플스토리",
   "interfaceFontFamily": "메이플스토리",
-  "monospaceFontFamily": "D2Coding",
+  "monospaceFontFamily": "메이플스토리",
   "showViewHeader": true,
   "nativeMenus": false,
   "translucency": false
