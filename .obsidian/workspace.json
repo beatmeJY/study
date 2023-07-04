@@ -14,6 +14,30 @@
               "type": "markdown",
               "state": {
                 "file": "cs/네트워크/OSI-7Layer/README.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3c8a17b8b757db1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfb7da0a518425bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,8 +172,10 @@
   },
   "active": "9da007f875d69f55",
   "lastOpenFiles": [
-    "cs/네트워크/README.md",
+    "무제 파일.md",
+    "무제 파일 1.md",
     "cs/네트워크/OSI-7Layer/README.md",
+    "cs/네트워크/README.md",
     "cs/네트워크/OSI-7Layer",
     "cs/네트워크/DNS/README.md",
     "cs/스프링/README.md",
