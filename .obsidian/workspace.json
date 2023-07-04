@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "927f7f84b3b8f5b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cs/네트워크/OSI-7Layer/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "f-lap/1주차 (230703)/README.md",
+                "file": "cs/네트워크/OSI-7Layer/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "f-lap/1주차 (230703)/README.md",
+                "file": "cs/네트워크/OSI-7Layer/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "f-lap/1주차 (230703)/README.md"
+                "file": "cs/네트워크/OSI-7Layer/README.md"
               }
             }
           }
@@ -160,22 +172,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df7293b1deeb3e56",
+  "active": "927f7f84b3b8f5b2",
   "lastOpenFiles": [
+    "f-lap/1주차 (230703)/README.md",
+    "cs/네트워크/README.md",
+    "cs/was/README.md",
+    "cs/README.md",
     "cs/네트워크/DNS/README.md",
     "cs/네트워크/OSI-7Layer/README.md",
-    "f-lap/1주차 (230703)/README.md",
-    "cs/README.md",
     "7-Layer 개발 시 공통 규칙.md",
     "README.md",
     "프로젝트 구상.md",
     "cs/네트워크/OSI-7Layer/OSI7계층구조.png",
-    "cs/was/README.md",
     "f-lap/1주차 (230703)",
     "f-lap",
     "Pasted.md",
     "cs/자바/README.md",
-    "cs/네트워크/README.md",
     "cs/네트워크/OSI-7Layer",
     "cs/스프링/README.md",
     "cs/스프링/README.md~",
