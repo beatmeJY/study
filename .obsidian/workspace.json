@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "f-lap/1주차 (230703).md",
+                "file": "cs/네트워크/DNS/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "f-lap/1주차 (230703).md",
+                "file": "cs/네트워크/DNS/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "f-lap/1주차 (230703).md"
+                "file": "cs/네트워크/DNS/README.md"
               }
             }
           }
@@ -159,10 +160,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "975872068e7b08da",
+  "active": "020b851177e6e441",
   "lastOpenFiles": [
-    "cs/네트워크/DNS/README.md",
     "f-lap/1주차 (230703).md",
+    "cs/네트워크/DNS/README.md",
     "cs/네트워크/OSI-7Layer/README.md",
     "cs/네트워크/OSI-7Layer/OSI7계층구조.png",
     "프로젝트 구상.md",
