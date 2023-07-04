@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,8 +149,9 @@
   },
   "active": "f42aa19f80b4c2ac",
   "lastOpenFiles": [
-    "cs/자바/README.md",
+    "cs/네트워크/OSI-7Layer/Pasted image 20230704163843.png",
     "cs/네트워크/OSI-7Layer/README.md",
+    "cs/자바/README.md",
     "README.md",
     "cs/was/README.md",
     "프로젝트 구상.md",
