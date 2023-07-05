@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs/네트워크/OSI-7Layer/README.md",
+                "file": "f-lap/1주차 (230703)/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs/네트워크/OSI-7Layer/README.md",
+                "file": "f-lap/1주차 (230703)/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs/네트워크/OSI-7Layer/README.md",
+                "file": "f-lap/1주차 (230703)/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs/네트워크/OSI-7Layer/README.md"
+                "file": "f-lap/1주차 (230703)/README.md"
               }
             }
           }
@@ -174,13 +174,13 @@
   },
   "active": "927f7f84b3b8f5b2",
   "lastOpenFiles": [
+    "cs/네트워크/OSI-7Layer/README.md",
     "flabstudy",
     "f-lap/1주차 (230703)/README.md",
     "cs/네트워크/README.md",
     "cs/was/README.md",
     "cs/README.md",
     "cs/네트워크/DNS/README.md",
-    "cs/네트워크/OSI-7Layer/README.md",
     "7-Layer 개발 시 공통 규칙.md",
     "README.md",
     "프로젝트 구상.md",
@@ -197,7 +197,6 @@
     "직접해보기/dev/out/production/study/AnnotationApplication.class",
     "직접해보기/dev/out/production/study",
     "직접해보기/dev/out/production",
-    "직접해보기/dev/src/DevApplication.java",
     "cs/네트워크/DNS/img.png",
     "230701/was/README.md",
     "cs/자바 특징/README.md",

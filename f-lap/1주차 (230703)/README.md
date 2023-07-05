@@ -4,7 +4,7 @@
 * ### OSI 7 Layer 
 	* CS 학습
 	* <u>코딩으로 이해하기.</u>
-* ### DNS, DNS Query [✅](https://github.com/beatmeJY/study/blob/main/cs/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/DNS/README.md)
+* ### [DNS, DNS Query ✅](https://github.com/beatmeJY/study/blob/main/cs/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/DNS/README.md)
 * ### 4-way Handshaking
 * ### WAS
 * ### 소켓(Socket)
